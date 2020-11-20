@@ -15,7 +15,7 @@ namespace CesarCodeApp
             Console.WriteLine("inserisci testo");
             plainText = Console.ReadLine();
 
-
+            doWork
         }
     }
 }
